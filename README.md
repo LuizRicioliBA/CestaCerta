@@ -1,4 +1,3 @@
-[CestaCerta.md](https://github.com/user-attachments/files/34840772/CestaCerta.md)
 # 🛒 CestaCerta
 
 ### Organize suas compras. Compare preços. Planeje melhor.
