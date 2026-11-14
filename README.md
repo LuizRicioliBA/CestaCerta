@@ -30,7 +30,3 @@ O **CestaCerta** é um sistema para ajudar você a organizar listas de compras e
 1. Crie uma lista com os produtos que pretende comprar.
 2. Consulte os preços disponíveis para esses produtos.
 3. Compare as opções por mercado e veja a melhor alternativa para a sua lista.
-
----
-
-> **Atenção:** o catálogo disponível atualmente contém dados fictícios de demonstração. Os valores servem apenas para mostrar como o sistema funciona; não são preços reais nem ofertas vigentes.
